@@ -1,0 +1,21 @@
+img{
+    height: 350px;
+    width: 400px;
+    margin-left: 45rem;
+}
+*{
+  
+    margin: 10px;
+  
+}
+audio{
+    width: 100%;
+}
+
+p,h1,h2,a{
+    font-size: 24px;
+    text-align: center;
+}
+
+
+
